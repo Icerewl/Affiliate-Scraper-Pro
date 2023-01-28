@@ -1,6 +1,6 @@
 # Affiliate Scraper Pro
 
-###### Affiliate Scraper Pro is a bot that helps users earn affiliate income with ease. The bot scrapes product information and images from Aliexpress.com, transforms ###### the links to the user's affiliate link through admitad.com, and then automatically shares those products on Pinterest.com.
+###### Affiliate Scraper Pro is a bot that helps users earn affiliate income with ease. The bot scrapes product information and images from Aliexpress.com, transforms the links to the user's affiliate link through admitad.com, and then automatically shares those products on Pinterest.com.
 
 ###### This bot streamlines the process of finding and sharing products, allowing users to focus on growing their affiliate income.
 
