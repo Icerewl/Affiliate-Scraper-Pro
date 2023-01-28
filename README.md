@@ -23,16 +23,27 @@
 
 ## Requirements:
 Python 3
+
 requests library
+
 Admitad account
+
 Pinterest account
+
 # Getting started:
-Clone the repository
-Install the required libraries
-Run the main.py file
-Set up telegram bot for sending the status to your telegram account
-Update the credentials and tokens for Admitad and Pinterest account
-Run the code and wait for the products to be posted on your Pinterest account
+
+1.Clone the repository
+
+2.Install the required libraries
+
+3.Run the main.py file
+
+4.Set up telegram bot for sending the status to your telegram account
+
+5.Update the credentials and tokens for Admitad and Pinterest account
+
+6.Run the code and wait for the products to be posted on your Pinterest account
+
 ## Note:
 There is a sleep time of 10300 seconds(2.9 hours) after each request to avoid suspension from Pinterest.
 ## Customization:
